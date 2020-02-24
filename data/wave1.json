@@ -1,0 +1,2404 @@
+[
+    {
+        "countries": [
+            {
+                "country": "Argentina",
+                "work": {
+                    "Very important": "75.2",
+                    "Rather important": "20.7",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "91.3",
+                    "Rather important": "7.6",
+                    "Not very important": "0.7",
+                    "Not at all important": "0.4",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "51",
+                    "Rather important": "32.8",
+                    "Not very important": "14.5",
+                    "Not at all important": "1.2",
+                    "Don´t know": "0.5",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "39.7",
+                    "Rather important": "35.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "4.9",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "14.9",
+                    "Rather important": "16",
+                    "Not very important": "27.6",
+                    "Not at all important": "40.9",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "39.7",
+                    "Rather important": "24",
+                    "Not very important": "22.2",
+                    "Not at all important": "13.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "32.4",
+                    "Quite happy": "43.9",
+                    "Not very happy": "18.3",
+                    "Not at all happy": "3.8",
+                    "Don´t know": "1.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "22.4",
+                    "Need to be very careful": "73.6",
+                    "Don´t know": "4.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1990"
+                },
+                "year": "1990"
+            },
+            {
+                "country": "Brazil",
+                "work": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "",
+                    "Quite happy": "",
+                    "Not very happy": "",
+                    "Not at all happy": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "",
+                    "Need to be very careful": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "year": "1990"
+            },
+            {
+                "country": "Brazil",
+                "work": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "",
+                    "Rather important": "",
+                    "Not very important": "",
+                    "Not at all important": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "",
+                    "Quite happy": "",
+                    "Not very happy": "",
+                    "Not at all happy": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "",
+                    "Need to be very careful": "",
+                    "Don´t know": "",
+                    "No answer": "",
+                    "number": "",
+                    "year": "1990"
+                },
+                "year": "1990"
+            },
+            {
+                "country": "Brazil",
+                "work": {
+                    "Very important": "82.2",
+                    "Rather important": "15.6",
+                    "Not very important": "1.3",
+                    "Not at all important": "0.9",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "90.4",
+                    "Rather important": "8.6",
+                    "Not very important": "0.7",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "57.2",
+                    "Rather important": "33.5",
+                    "Not very important": "7.3",
+                    "Not at all important": "1.9",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "51.3",
+                    "Rather important": "38.4",
+                    "Not very important": "6.7",
+                    "Not at all important": "3.3",
+                    "Don´t know": "0.3",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "19.1",
+                    "Rather important": "22.5",
+                    "Not very important": "22.3",
+                    "Not at all important": "34.9",
+                    "Don´t know": "1.2",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "56.9",
+                    "Rather important": "28.7",
+                    "Not very important": "7.8",
+                    "Not at all important": "6.4",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "21",
+                    "Quite happy": "54.5",
+                    "Not very happy": "21.9",
+                    "Not at all happy": "2.4",
+                    "Don´t know": "0.3",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "6.6",
+                    "Need to be very careful": "92.5",
+                    "Don´t know": "0.9",
+                    "No answer": "0",
+                    "number": "1.782",
+                    "year": "1990"
+                },
+                "year": "1990"
+            },
+            {
+                "country": "Belarus",
+                "work": {
+                    "Very important": "53.6",
+                    "Rather important": "28.8",
+                    "Not very important": "13.6",
+                    "Not at all important": "1.8",
+                    "Don´t know": "2.3",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "75.6",
+                    "Rather important": "19.4",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.5",
+                    "Don´t know": "1.7",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "35.8",
+                    "Rather important": "43",
+                    "Not very important": "18.2",
+                    "Not at all important": "1",
+                    "Don´t know": "2.1",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "35.3",
+                    "Rather important": "36.8",
+                    "Not very important": "21.7",
+                    "Not at all important": "2.3",
+                    "Don´t know": "3.9",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "13.6",
+                    "Rather important": "22.4",
+                    "Not very important": "48.5",
+                    "Not at all important": "12.4",
+                    "Don´t know": "3.2",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "11.3",
+                    "Rather important": "16.6",
+                    "Not very important": "41",
+                    "Not at all important": "23.4",
+                    "Don´t know": "7.7",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "6.1",
+                    "Quite happy": "37.7",
+                    "Not very happy": "45.6",
+                    "Not at all happy": "6",
+                    "Don´t know": "4.5",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "25",
+                    "Need to be very careful": "73.2",
+                    "Don´t know": "1.8",
+                    "No answer": "0",
+                    "number": "1.015",
+                    "year": "1990"
+                },
+                "year": "1990"
+            },
+            {
+                "country": "Chile",
+                "work": {
+                    "Very important": "75",
+                    "Rather important": "21.3",
+                    "Not very important": "3.2",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "85.1",
+                    "Rather important": "13.3",
+                    "Not very important": "1.1",
+                    "Not at all important": "0.1",
+                    "Don´t know": "0.5",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "19.1",
+                    "Rather important": "29.5",
+                    "Not very important": "45",
+                    "Not at all important": "5.7",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "32.5",
+                    "Rather important": "33.9",
+                    "Not very important": "26.6",
+                    "Not at all important": "5.6",
+                    "Don´t know": "1.3",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "13.8",
+                    "Rather important": "16.5",
+                    "Not very important": "32.1",
+                    "Not at all important": "35.5",
+                    "Don´t know": "2.1",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "51.1",
+                    "Rather important": "26.9",
+                    "Not very important": "15.3",
+                    "Not at all important": "5.9",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "33.1",
+                    "Quite happy": "38.7",
+                    "Not very happy": "24.6",
+                    "Not at all happy": "2.6",
+                    "Don´t know": "0.9",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "22.1",
+                    "Need to be very careful": "75.1",
+                    "Don´t know": "2.8",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1990"
+                },
+                "year": "1990"
+            },
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "63.8",
+                    "Rather important": "28.2",
+                    "Not very important": "5.9",
+                    "Not at all important": "2.1",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "62",
+                    "Rather important": "32.9",
+                    "Not very important": "4.3",
+                    "Not at all important": "0.5",
+                    "Don´t know": "0.2",
+                    "No answer": "0.1",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "21.4",
+                    "Rather important": "51.6",
+                    "Not very important": "25",
+                    "Not at all important": "1.3",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "13.9",
+                    "Rather important": "29.9",
+                    "Not very important": "48.2",
+                    "Not at all important": "7.3",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "28.7",
+                    "Rather important": "29.4",
+                    "Not very important": "32.3",
+                    "Not at all important": "8.2",
+                    "Don´t know": "1.4",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "1.4",
+                    "Rather important": "2.2",
+                    "Not very important": "18.4",
+                    "Not at all important": "75.8",
+                    "Don´t know": "2.2",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "27.5",
+                    "Quite happy": "39.1",
+                    "Not very happy": "28.6",
+                    "Not at all happy": "2.1",
+                    "Don´t know": "2.1",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "59.4",
+                    "Need to be very careful": "39.1",
+                    "Don´t know": "1.4",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1990"
+                },
+                "year": "1990"
+            },
+            {
+                "country": "India",
+                "work": {
+                    "Very important": "86.4",
+                    "Rather important": "12.4",
+                    "Not very important": "0.9",
+                    "Not at all important": "0.2",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "family": {
+                    "Very important": "76.8",
+                    "Rather important": "21.5",
+                    "Not very important": "1.4",
+                    "Not at all important": "0.2",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "friends": {
+                    "Very important": "29.7",
+                    "Rather important": "47.2",
+                    "Not very important": "19.6",
+                    "Not at all important": "2.8",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "leisure": {
+                    "Very important": "16.2",
+                    "Rather important": "39.8",
+                    "Not very important": "30.3",
+                    "Not at all important": "12.2",
+                    "Don´t know": "1.5",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "politics": {
+                    "Very important": "12.7",
+                    "Rather important": "26.4",
+                    "Not very important": "31.4",
+                    "Not at all important": "28.1",
+                    "Don´t know": "1.4",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "religion": {
+                    "Very important": "49.2",
+                    "Rather important": "32",
+                    "Not very important": "12.1",
+                    "Not at all important": "6.6",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "happiness": {
+                    "Very happy": "23.8",
+                    "Quite happy": "48.2",
+                    "Not very happy": "24",
+                    "Not at all happy": "3.6",
+                    "Don´t know": "0.4",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "33.5",
+                    "Need to be very careful": "61.1",
+                    "Don´t know": "5.4",
+                    "No answer": "0",
+                    "number": "2.5",
+                    "year": "1990"
+                },
+                "year": "1990"
+            }
+        ],
+        "year": "1990"
+    },
+    {
+        "countries": [
+            {
+                "country": "Argentina",
+                "work": {
+                    "Very important": "70.3",
+                    "Rather important": "26.4",
+                    "Not very important": "2.3",
+                    "Not at all important": "0.9",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "family": {
+                    "Very important": "86.6",
+                    "Rather important": "12.1",
+                    "Not very important": "1.3",
+                    "Not at all important": "0.1",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "friends": {
+                    "Very important": "48.6",
+                    "Rather important": "35.1",
+                    "Not very important": "14.3",
+                    "Not at all important": "1.8",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "leisure": {
+                    "Very important": "26.4",
+                    "Rather important": "49.3",
+                    "Not very important": "20",
+                    "Not at all important": "3.3",
+                    "Don´t know": "0.9",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "politics": {
+                    "Very important": "10.1",
+                    "Rather important": "20.5",
+                    "Not very important": "31.7",
+                    "Not at all important": "36.7",
+                    "Don´t know": "0.9",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "religion": {
+                    "Very important": "34.9",
+                    "Rather important": "31.1",
+                    "Not very important": "21.3",
+                    "Not at all important": "11.8",
+                    "Don´t know": "0.9",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "happiness": {
+                    "Very happy": "28.8",
+                    "Quite happy": "52.8",
+                    "Not very happy": "14.9",
+                    "Not at all happy": "2.4",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "17.1",
+                    "Need to be very careful": "80.4",
+                    "Don´t know": "2.5",
+                    "No answer": "0",
+                    "number": "1.079",
+                    "year": "1995"
+                },
+                "year": "1995"
+            },
+            {
+                "country": "Brazil",
+                "work": {
+                    "Very important": "84",
+                    "Rather important": "15.2",
+                    "Not very important": "0.4",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "family": {
+                    "Very important": "92.6",
+                    "Rather important": "6.6",
+                    "Not very important": "0.7",
+                    "Not at all important": "0",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "friends": {
+                    "Very important": "57.7",
+                    "Rather important": "30.4",
+                    "Not very important": "9.4",
+                    "Not at all important": "2.4",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "leisure": {
+                    "Very important": "54.2",
+                    "Rather important": "36.7",
+                    "Not very important": "6.6",
+                    "Not at all important": "2.4",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "politics": {
+                    "Very important": "21.8",
+                    "Rather important": "28.3",
+                    "Not very important": "22.1",
+                    "Not at all important": "25.4",
+                    "Don´t know": "2.4",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "religion": {
+                    "Very important": "64.5",
+                    "Rather important": "24.8",
+                    "Not very important": "7.7",
+                    "Not at all important": "2.8",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "happiness": {
+                    "Very happy": "22",
+                    "Quite happy": "60.9",
+                    "Not very happy": "14.9",
+                    "Not at all happy": "2.1",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "2.8",
+                    "Need to be very careful": "96.5",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1.143",
+                    "year": "1995"
+                },
+                "year": "1995"
+            },
+            {
+                "country": "Belarus",
+                "work": {
+                    "Very important": "46.7",
+                    "Rather important": "36.7",
+                    "Not very important": "10.4",
+                    "Not at all important": "3.5",
+                    "Don´t know": "2.7",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "family": {
+                    "Very important": "83.8",
+                    "Rather important": "13.2",
+                    "Not very important": "2",
+                    "Not at all important": "0.2",
+                    "Don´t know": "0.8",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "friends": {
+                    "Very important": "31.3",
+                    "Rather important": "50",
+                    "Not very important": "15.2",
+                    "Not at all important": "2.1",
+                    "Don´t know": "1.5",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "leisure": {
+                    "Very important": "28.7",
+                    "Rather important": "44.4",
+                    "Not very important": "19.6",
+                    "Not at all important": "3.7",
+                    "Don´t know": "3.5",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "politics": {
+                    "Very important": "9.8",
+                    "Rather important": "30.5",
+                    "Not very important": "35",
+                    "Not at all important": "22.1",
+                    "Don´t know": "2.6",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "religion": {
+                    "Very important": "20",
+                    "Rather important": "31",
+                    "Not very important": "25.2",
+                    "Not at all important": "15.4",
+                    "Don´t know": "8.4",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "happiness": {
+                    "Very happy": "4.2",
+                    "Quite happy": "40.7",
+                    "Not very happy": "42.8",
+                    "Not at all happy": "8.8",
+                    "Don´t know": "3.4",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "23",
+                    "Need to be very careful": "72.5",
+                    "Don´t know": "4.5",
+                    "No answer": "0",
+                    "number": "2.092",
+                    "year": "1995"
+                },
+                "year": "1995"
+            },
+            {
+                "country": "Chile",
+                "work": {
+                    "Very important": "64.3",
+                    "Rather important": "27.8",
+                    "Not very important": "4.7",
+                    "Not at all important": "0.9",
+                    "Don´t know": "2.3",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "family": {
+                    "Very important": "88.8",
+                    "Rather important": "8.9",
+                    "Not very important": "1.1",
+                    "Not at all important": "0.1",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "friends": {
+                    "Very important": "27.6",
+                    "Rather important": "36.1",
+                    "Not very important": "30.4",
+                    "Not at all important": "4.8",
+                    "Don´t know": "1",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "leisure": {
+                    "Very important": "42",
+                    "Rather important": "43.6",
+                    "Not very important": "10.7",
+                    "Not at all important": "1.8",
+                    "Don´t know": "2",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "politics": {
+                    "Very important": "6.9",
+                    "Rather important": "13",
+                    "Not very important": "35",
+                    "Not at all important": "42.8",
+                    "Don´t know": "2.3",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "religion": {
+                    "Very important": "41.8",
+                    "Rather important": "31.3",
+                    "Not very important": "19",
+                    "Not at all important": "5.6",
+                    "Don´t know": "2.2",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "happiness": {
+                    "Very happy": "27",
+                    "Quite happy": "52.7",
+                    "Not very happy": "19.2",
+                    "Not at all happy": "0.7",
+                    "Don´t know": "0.4",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "21.4",
+                    "Need to be very careful": "76.2",
+                    "Don´t know": "2.4",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1995"
+                },
+                "year": "1995"
+            },
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "63.9",
+                    "Rather important": "27.3",
+                    "Not very important": "5.6",
+                    "Not at all important": "1",
+                    "Don´t know": "2.1",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "family": {
+                    "Very important": "76.5",
+                    "Rather important": "22",
+                    "Not very important": "1.2",
+                    "Not at all important": "0.1",
+                    "Don´t know": "0.3",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "friends": {
+                    "Very important": "29.3",
+                    "Rather important": "54.9",
+                    "Not very important": "12.9",
+                    "Not at all important": "1",
+                    "Don´t know": "1.9",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "leisure": {
+                    "Very important": "10.7",
+                    "Rather important": "43.9",
+                    "Not very important": "36.6",
+                    "Not at all important": "6",
+                    "Don´t know": "2.9",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "politics": {
+                    "Very important": "23.7",
+                    "Rather important": "35.3",
+                    "Not very important": "27.4",
+                    "Not at all important": "7.4",
+                    "Don´t know": "6.2",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "religion": {
+                    "Very important": "3.9",
+                    "Rather important": "10.3",
+                    "Not very important": "30.8",
+                    "Not at all important": "44",
+                    "Don´t know": "11.1",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "happiness": {
+                    "Very happy": "22.7",
+                    "Quite happy": "60.9",
+                    "Not very happy": "14.1",
+                    "Not at all happy": "1.7",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "50.4",
+                    "Need to be very careful": "45.9",
+                    "Don´t know": "3.7",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "1995"
+                },
+                "year": "1995"
+            },
+            {
+                "country": "India",
+                "work": {
+                    "Very important": "82.4",
+                    "Rather important": "14.8",
+                    "Not very important": "1.6",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "family": {
+                    "Very important": "90.8",
+                    "Rather important": "7.9",
+                    "Not very important": "0.9",
+                    "Not at all important": "0.1",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "friends": {
+                    "Very important": "37.5",
+                    "Rather important": "40",
+                    "Not very important": "18.6",
+                    "Not at all important": "3",
+                    "Don´t know": "0.8",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "leisure": {
+                    "Very important": "11.1",
+                    "Rather important": "24.9",
+                    "Not very important": "40.1",
+                    "Not at all important": "21.9",
+                    "Don´t know": "2",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "politics": {
+                    "Very important": "10.9",
+                    "Rather important": "21.8",
+                    "Not very important": "33.5",
+                    "Not at all important": "30.6",
+                    "Don´t know": "3.1",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "religion": {
+                    "Very important": "48.2",
+                    "Rather important": "29.5",
+                    "Not very important": "13.9",
+                    "Not at all important": "7",
+                    "Don´t know": "1.4",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "happiness": {
+                    "Very happy": "29.9",
+                    "Quite happy": "46",
+                    "Not very happy": "19.8",
+                    "Not at all happy": "2.8",
+                    "Don´t know": "1.5",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "32.8",
+                    "Need to be very careful": "53.9",
+                    "Don´t know": "13.3",
+                    "No answer": "0",
+                    "number": "2.04",
+                    "year": "1995"
+                },
+                "year": "1995"
+            }
+        ],
+        "year": "1995"
+    },
+    {
+        "countries": [
+            {
+                "country": "Argentina",
+                "work": {
+                    "Very important": "73.4",
+                    "Rather important": "22.2",
+                    "Not very important": "2.6",
+                    "Not at all important": "1.2",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "family": {
+                    "Very important": "90.2",
+                    "Rather important": "8.4",
+                    "Not very important": "1",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "friends": {
+                    "Very important": "49.7",
+                    "Rather important": "30.4",
+                    "Not very important": "15.9",
+                    "Not at all important": "2.8",
+                    "Don´t know": "1.2",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "leisure": {
+                    "Very important": "35.1",
+                    "Rather important": "41.7",
+                    "Not very important": "17.4",
+                    "Not at all important": "3.9",
+                    "Don´t know": "1.9",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "politics": {
+                    "Very important": "8.9",
+                    "Rather important": "14.9",
+                    "Not very important": "29.6",
+                    "Not at all important": "46.1",
+                    "Don´t know": "0.5",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "religion": {
+                    "Very important": "46.3",
+                    "Rather important": "26.3",
+                    "Not very important": "18.2",
+                    "Not at all important": "8.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "happiness": {
+                    "Very happy": "33",
+                    "Quite happy": "48.4",
+                    "Not very happy": "15.5",
+                    "Not at all happy": "2.4",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "15",
+                    "Need to be very careful": "82.6",
+                    "Don´t know": "2.4",
+                    "No answer": "0",
+                    "number": "1.28",
+                    "year": "1999"
+                },
+                "year": "1999"
+            },
+            {
+                "country": "Chile",
+                "work": {
+                    "Very important": "74.8",
+                    "Rather important": "19.5",
+                    "Not very important": "2.9",
+                    "Not at all important": "1.4",
+                    "Don´t know": "1.4",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "family": {
+                    "Very important": "96.4",
+                    "Rather important": "2.8",
+                    "Not very important": "0.5",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "friends": {
+                    "Very important": "29.1",
+                    "Rather important": "41.5",
+                    "Not very important": "20.2",
+                    "Not at all important": "8.5",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "leisure": {
+                    "Very important": "53.3",
+                    "Rather important": "34.4",
+                    "Not very important": "8.8",
+                    "Not at all important": "2.4",
+                    "Don´t know": "1.2",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "politics": {
+                    "Very important": "9.1",
+                    "Rather important": "21",
+                    "Not very important": "25.6",
+                    "Not at all important": "42",
+                    "Don´t know": "2.3",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "religion": {
+                    "Very important": "46.3",
+                    "Rather important": "33.4",
+                    "Not very important": "14.2",
+                    "Not at all important": "5.4",
+                    "Don´t know": "0.8",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "happiness": {
+                    "Very happy": "36",
+                    "Quite happy": "43.9",
+                    "Not very happy": "18.9",
+                    "Not at all happy": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "22.2",
+                    "Need to be very careful": "75.2",
+                    "Don´t know": "2.6",
+                    "No answer": "0",
+                    "number": "1.2",
+                    "year": "1999"
+                },
+                "year": "1999"
+            },
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "49",
+                    "Rather important": "42.5",
+                    "Not very important": "6",
+                    "Not at all important": "1.1",
+                    "Don´t know": "0",
+                    "No answer": "1.4",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "family": {
+                    "Very important": "60.2",
+                    "Rather important": "36.2",
+                    "Not very important": "2.7",
+                    "Not at all important": "0.1",
+                    "Don´t know": "0.8",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "friends": {
+                    "Very important": "19.9",
+                    "Rather important": "61.9",
+                    "Not very important": "14.3",
+                    "Not at all important": "1.7",
+                    "Don´t know": "0.2",
+                    "No answer": "2",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "leisure": {
+                    "Very important": "7.1",
+                    "Rather important": "41.7",
+                    "Not very important": "43.9",
+                    "Not at all important": "4.1",
+                    "Don´t know": "0",
+                    "No answer": "3.2",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "politics": {
+                    "Very important": "15.1",
+                    "Rather important": "47.7",
+                    "Not very important": "26.6",
+                    "Not at all important": "3.5",
+                    "Don´t know": "0.1",
+                    "No answer": "7",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "religion": {
+                    "Very important": "2.5",
+                    "Rather important": "6.3",
+                    "Not very important": "25.3",
+                    "Not at all important": "59.9",
+                    "Don´t know": "6",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "happiness": {
+                    "Very happy": "11.5",
+                    "Quite happy": "66.3",
+                    "Not very happy": "19",
+                    "Not at all happy": "2.8",
+                    "Don´t know": "0",
+                    "No answer": "0.4",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "52.5",
+                    "Need to be very careful": "43.8",
+                    "Don´t know": "0.1",
+                    "No answer": "3.6",
+                    "number": "1",
+                    "year": "1999"
+                },
+                "year": "1999"
+            },
+            {
+                "country": "India",
+                "work": {
+                    "Very important": "76.5",
+                    "Rather important": "17.5",
+                    "Not very important": "2.9",
+                    "Not at all important": "1.5",
+                    "Don´t know": "1.5",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "family": {
+                    "Very important": "91.9",
+                    "Rather important": "6",
+                    "Not very important": "1.2",
+                    "Not at all important": "0.1",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "friends": {
+                    "Very important": "39.2",
+                    "Rather important": "38.3",
+                    "Not very important": "15.3",
+                    "Not at all important": "5.6",
+                    "Don´t know": "1.6",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "leisure": {
+                    "Very important": "27.7",
+                    "Rather important": "33.6",
+                    "Not very important": "24.9",
+                    "Not at all important": "10.5",
+                    "Don´t know": "3.3",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "politics": {
+                    "Very important": "17.9",
+                    "Rather important": "19.7",
+                    "Not very important": "26.7",
+                    "Not at all important": "29",
+                    "Don´t know": "6.7",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "religion": {
+                    "Very important": "55.8",
+                    "Rather important": "23.4",
+                    "Not very important": "11.6",
+                    "Not at all important": "7.1",
+                    "Don´t know": "2",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "happiness": {
+                    "Very happy": "25.3",
+                    "Quite happy": "47.6",
+                    "Not very happy": "20.9",
+                    "Not at all happy": "4.5",
+                    "Don´t know": "1.7",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "38.9",
+                    "Need to be very careful": "55.9",
+                    "Don´t know": "5.2",
+                    "No answer": "0",
+                    "number": "2.002",
+                    "year": "1999"
+                },
+                "year": "1999"
+            }
+        ],
+        "year": "1999"
+    },
+    {
+        "countries": [
+            {
+                "country": "Argentina",
+                "work": {
+                    "Very important": "70.4",
+                    "Rather important": "25.7",
+                    "Not very important": "2.2",
+                    "Not at all important": "1.2",
+                    "Don´t know": "0.2",
+                    "No answer": "0.3",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "family": {
+                    "Very important": "91.4",
+                    "Rather important": "7.5",
+                    "Not very important": "0.7",
+                    "Not at all important": "0.2",
+                    "Don´t know": "0.1",
+                    "No answer": "0.1",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "friends": {
+                    "Very important": "59.4",
+                    "Rather important": "25.9",
+                    "Not very important": "11.8",
+                    "Not at all important": "2.3",
+                    "Don´t know": "0.2",
+                    "No answer": "0.3",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "leisure": {
+                    "Very important": "40.1",
+                    "Rather important": "42.4",
+                    "Not very important": "14.6",
+                    "Not at all important": "1.8",
+                    "Don´t know": "0.4",
+                    "No answer": "0.6",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "politics": {
+                    "Very important": "8.4",
+                    "Rather important": "21.8",
+                    "Not very important": "32.7",
+                    "Not at all important": "36.1",
+                    "Don´t know": "0.7",
+                    "No answer": "0.3",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "religion": {
+                    "Very important": "33.1",
+                    "Rather important": "31.6",
+                    "Not very important": "23.7",
+                    "Not at all important": "10.5",
+                    "Don´t know": "0.1",
+                    "No answer": "0.9",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "happiness": {
+                    "Very happy": "32.4",
+                    "Quite happy": "55.2",
+                    "Not very happy": "9.9",
+                    "Not at all happy": "1.4",
+                    "Don´t know": "0.7",
+                    "No answer": "0.4",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "17.4",
+                    "Need to be very careful": "81.3",
+                    "Don´t know": "1.1",
+                    "No answer": "0.2",
+                    "number": "1.002",
+                    "year": "2005"
+                },
+                "year": "2005"
+            },
+            {
+                "country": "Brazil",
+                "work": {
+                    "Very important": "33.4",
+                    "Rather important": "33.4",
+                    "Not very important": "0.9",
+                    "Not at all important": "0.2",
+                    "Don´t know": "0",
+                    "No answer": "0.2",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "family": {
+                    "Very important": "86.4",
+                    "Rather important": "13.1",
+                    "Not very important": "0.2",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "friends": {
+                    "Very important": "37.1",
+                    "Rather important": "50.4",
+                    "Not very important": "10.4",
+                    "Not at all important": "1.8",
+                    "Don´t know": "0.1",
+                    "No answer": "0.3",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "leisure": {
+                    "Very important": "27",
+                    "Rather important": "57.2",
+                    "Not very important": "12.8",
+                    "Not at all important": "2.5",
+                    "Don´t know": "0.1",
+                    "No answer": "0.4",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "politics": {
+                    "Very important": "14.6",
+                    "Rather important": "40",
+                    "Not very important": "26.1",
+                    "Not at all important": "18.5",
+                    "Don´t know": "0.2",
+                    "No answer": "0.7",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "religion": {
+                    "Very important": "50.5",
+                    "Rather important": "40.4",
+                    "Not very important": "6.2",
+                    "Not at all important": "2.7",
+                    "Don´t know": "0",
+                    "No answer": "0.1",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "happiness": {
+                    "Very happy": "34",
+                    "Quite happy": "56.4",
+                    "Not very happy": "8.8",
+                    "Not at all happy": "0.6",
+                    "Don´t know": "0.1",
+                    "No answer": "0.2",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "9.2",
+                    "Need to be very careful": "89.2",
+                    "Don´t know": "0",
+                    "No answer": "1.5",
+                    "number": "1.5",
+                    "year": "2005"
+                },
+                "year": "2005"
+            },
+            {
+                "country": "Chile",
+                "work": {
+                    "Very important": "62.3",
+                    "Rather important": "28.4",
+                    "Not very important": "5.7",
+                    "Not at all important": "2.4",
+                    "Don´t know": "0.2",
+                    "No answer": "0.9",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "family": {
+                    "Very important": "90.2",
+                    "Rather important": "8.7",
+                    "Not very important": "0.6",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "friends": {
+                    "Very important": "23.6",
+                    "Rather important": "35.8",
+                    "Not very important": "29.4",
+                    "Not at all important": "10.4",
+                    "Don´t know": "0.3",
+                    "No answer": "0.4",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "leisure": {
+                    "Very important": "47.2",
+                    "Rather important": "37.9",
+                    "Not very important": "11.9",
+                    "Not at all important": "2.2",
+                    "Don´t know": "0.3",
+                    "No answer": "0.5",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "politics": {
+                    "Very important": "5.6",
+                    "Rather important": "14.5",
+                    "Not very important": "32.3",
+                    "Not at all important": "45.8",
+                    "Don´t know": "0.3",
+                    "No answer": "1.5",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "religion": {
+                    "Very important": "39.6",
+                    "Rather important": "33.3",
+                    "Not very important": "18.2",
+                    "Not at all important": "8.1",
+                    "Don´t know": "0.3",
+                    "No answer": "0.5",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "happiness": {
+                    "Very happy": "30.5",
+                    "Quite happy": "49",
+                    "Not very happy": "18.6",
+                    "Not at all happy": "1.8",
+                    "Don´t know": "0.1",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "12.4",
+                    "Need to be very careful": "86.1",
+                    "Don´t know": "0.7",
+                    "No answer": "0.8",
+                    "number": "1",
+                    "year": "2005"
+                },
+                "year": "2005"
+            },
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "43.7",
+                    "Rather important": "41.8",
+                    "Not very important": "7.5",
+                    "Not at all important": "1.4",
+                    "Don´t know": "5",
+                    "No answer": "0.7",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "family": {
+                    "Very important": "78.1",
+                    "Rather important": "19.3",
+                    "Not very important": "1.4",
+                    "Not at all important": "0.1",
+                    "Don´t know": "1",
+                    "No answer": "0.1",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "friends": {
+                    "Very important": "30.3",
+                    "Rather important": "52.6",
+                    "Not very important": "12.7",
+                    "Not at all important": "0.5",
+                    "Don´t know": "3.5",
+                    "No answer": "0.3",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "leisure": {
+                    "Very important": "11.4",
+                    "Rather important": "38.9",
+                    "Not very important": "39.5",
+                    "Not at all important": "3.7",
+                    "Don´t know": "5.8",
+                    "No answer": "0.8",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "politics": {
+                    "Very important": "13.3",
+                    "Rather important": "34.9",
+                    "Not very important": "28",
+                    "Not at all important": "5.6",
+                    "Don´t know": "17.8",
+                    "No answer": "0.4",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "religion": {
+                    "Very important": "5",
+                    "Rather important": "11.2",
+                    "Not very important": "24.1",
+                    "Not at all important": "34.5",
+                    "Don´t know": "24.3",
+                    "No answer": "0.8",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "happiness": {
+                    "Very happy": "18.8",
+                    "Quite happy": "58",
+                    "Not very happy": "19",
+                    "Not at all happy": "3.5",
+                    "Don´t know": "0.6",
+                    "No answer": "0.1",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "49.3",
+                    "Need to be very careful": "44.4",
+                    "Don´t know": "5.5",
+                    "No answer": "0.8",
+                    "number": "1.991",
+                    "year": "2005"
+                },
+                "year": "2005"
+            },
+            {
+                "country": "India",
+                "work": {
+                    "Very important": "67.9",
+                    "Rather important": "25",
+                    "Not very important": "3.9",
+                    "Not at all important": "1.5",
+                    "Don´t know": "1.7",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "family": {
+                    "Very important": "90.1",
+                    "Rather important": "8.5",
+                    "Not very important": "0.8",
+                    "Not at all important": "0",
+                    "Don´t know": "0.5",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "friends": {
+                    "Very important": "42.3",
+                    "Rather important": "41.1",
+                    "Not very important": "11.5",
+                    "Not at all important": "2.8",
+                    "Don´t know": "2.2",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "leisure": {
+                    "Very important": "23.6",
+                    "Rather important": "36.1",
+                    "Not very important": "24.2",
+                    "Not at all important": "12.6",
+                    "Don´t know": "3.4",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "politics": {
+                    "Very important": "14.4",
+                    "Rather important": "22.8",
+                    "Not very important": "31.2",
+                    "Not at all important": "25.2",
+                    "Don´t know": "6.3",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "religion": {
+                    "Very important": "49.7",
+                    "Rather important": "28.3",
+                    "Not very important": "13.4",
+                    "Not at all important": "5.3",
+                    "Don´t know": "3.3",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "happiness": {
+                    "Very happy": "28.9",
+                    "Quite happy": "46.4",
+                    "Not very happy": "21.6",
+                    "Not at all happy": "2.7",
+                    "Don´t know": "0.3",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "20.7",
+                    "Need to be very careful": "68.2",
+                    "Don´t know": "11.1",
+                    "No answer": "0",
+                    "number": "2.001",
+                    "year": "2005"
+                },
+                "year": "2005"
+            }
+        ],
+        "year": "2005"
+    },
+    {
+        "countries": [
+            {
+                "country": "Argentina",
+                "work": {
+                    "Very important": "57.4",
+                    "Rather important": "29.8",
+                    "Not very important": "7",
+                    "Not at all important": "4.4",
+                    "Don´t know": "0.4",
+                    "No answer": "0.9",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "family": {
+                    "Very important": "88.9",
+                    "Rather important": "10.2",
+                    "Not very important": "0.4",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0",
+                    "No answer": "0.2",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "friends": {
+                    "Very important": "53.9",
+                    "Rather important": "33.6",
+                    "Not very important": "10.5",
+                    "Not at all important": "1.7",
+                    "Don´t know": "0",
+                    "No answer": "",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "leisure": {
+                    "Very important": "33.7",
+                    "Rather important": "43",
+                    "Not very important": "18.7",
+                    "Not at all important": "3.9",
+                    "Don´t know": "0",
+                    "No answer": "0.6",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "politics": {
+                    "Very important": "8.3",
+                    "Rather important": "22.4",
+                    "Not very important": "34.9",
+                    "Not at all important": "32.9",
+                    "Don´t know": "0.4",
+                    "No answer": "1",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "religion": {
+                    "Very important": "24.1",
+                    "Rather important": "32.1",
+                    "Not very important": "24.7",
+                    "Not at all important": "17.8",
+                    "Don´t know": "0.7",
+                    "No answer": "0.7",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "happiness": {
+                    "Very happy": "33.3",
+                    "Quite happy": "53.1",
+                    "Not very happy": "11.6",
+                    "Not at all happy": "1",
+                    "Don´t know": "0.5",
+                    "No answer": "0.5",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "19.2",
+                    "Need to be very careful": "77.5",
+                    "Don´t know": "2.5",
+                    "No answer": "0.8",
+                    "number": "1.03",
+                    "year": "2010"
+                },
+                "year": "2010"
+            },
+            {
+                "country": "Brazil",
+                "work": {
+                    "Very important": "63.6",
+                    "Rather important": "34.2",
+                    "Not very important": "1.3",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.2",
+                    "No answer": "0",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "family": {
+                    "Very important": "87.4",
+                    "Rather important": "11.3",
+                    "Not very important": "1",
+                    "Not at all important": "0.2",
+                    "Don´t know": "0",
+                    "No answer": "0.1",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "friends": {
+                    "Very important": "33",
+                    "Rather important": "50",
+                    "Not very important": "15.1",
+                    "Not at all important": "1.7",
+                    "Don´t know": "0.1",
+                    "No answer": "0.1",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "leisure": {
+                    "Very important": "32.8",
+                    "Rather important": "54.6",
+                    "Not very important": "10.4",
+                    "Not at all important": "1.8",
+                    "Don´t know": "0.3",
+                    "No answer": "0.1",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "politics": {
+                    "Very important": "12.5",
+                    "Rather important": "28.8",
+                    "Not very important": "29.6",
+                    "Not at all important": "28.4",
+                    "Don´t know": "0.5",
+                    "No answer": "0.3",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "religion": {
+                    "Very important": "51.5",
+                    "Rather important": "37.9",
+                    "Not very important": "7.3",
+                    "Not at all important": "3.2",
+                    "Don´t know": "0.1",
+                    "No answer": "0.1",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "happiness": {
+                    "Very happy": "35.2",
+                    "Quite happy": "56.8",
+                    "Not very happy": "7.2",
+                    "Not at all happy": "0.8",
+                    "Don´t know": "0",
+                    "No answer": "0.1",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "7.1",
+                    "Need to be very careful": "92.2",
+                    "Don´t know": "0.7",
+                    "No answer": "0",
+                    "number": "1.486",
+                    "year": "2010"
+                },
+                "year": "2010"
+            },
+            {
+                "country": "Belarus",
+                "work": {
+                    "Very important": "45.2",
+                    "Rather important": "32.4",
+                    "Not very important": "12.4",
+                    "Not at all important": "9.1",
+                    "Don´t know": "0.9",
+                    "No answer": "0",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "family": {
+                    "Very important": "88.3",
+                    "Rather important": "9.7",
+                    "Not very important": "1.3",
+                    "Not at all important": "0.3",
+                    "Don´t know": "0.4",
+                    "No answer": "0",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "friends": {
+                    "Very important": "42.7",
+                    "Rather important": "41.6",
+                    "Not very important": "13.2",
+                    "Not at all important": "1.6",
+                    "Don´t know": "0.9",
+                    "No answer": "0",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "leisure": {
+                    "Very important": "37.1",
+                    "Rather important": "38.5",
+                    "Not very important": "18.4",
+                    "Not at all important": "4.5",
+                    "Don´t know": "1.5",
+                    "No answer": "0",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "politics": {
+                    "Very important": "8",
+                    "Rather important": "23.1",
+                    "Not very important": "47",
+                    "Not at all important": "20.5",
+                    "Don´t know": "1.3",
+                    "No answer": "0",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "religion": {
+                    "Very important": "15.9",
+                    "Rather important": "32.1",
+                    "Not very important": "33.4",
+                    "Not at all important": "17.4",
+                    "Don´t know": "1.2",
+                    "No answer": "0",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "happiness": {
+                    "Very happy": "10.6",
+                    "Quite happy": "53.1",
+                    "Not very happy": "27.3",
+                    "Not at all happy": "3.5",
+                    "Don´t know": "4.4",
+                    "No answer": "1.1",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "32.6",
+                    "Need to be very careful": "59.9",
+                    "Don´t know": "6.5",
+                    "No answer": "0.9",
+                    "number": "1.535",
+                    "year": "2010"
+                },
+                "year": "2010"
+            },
+            {
+                "country": "Chile",
+                "work": {
+                    "Very important": "56.3",
+                    "Rather important": "32.5",
+                    "Not very important": "5.8",
+                    "Not at all important": "2.9",
+                    "Don´t know": "1.1",
+                    "No answer": "1.4",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "family": {
+                    "Very important": "91.7",
+                    "Rather important": "7.1",
+                    "Not very important": "1",
+                    "Not at all important": "0.2",
+                    "Don´t know": "0",
+                    "No answer": "0",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "friends": {
+                    "Very important": "35.1",
+                    "Rather important": "43.6",
+                    "Not very important": "18",
+                    "Not at all important": "2.2",
+                    "Don´t know": "0.8",
+                    "No answer": "0.3",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "leisure": {
+                    "Very important": "56.1",
+                    "Rather important": "34.1",
+                    "Not very important": "7.6",
+                    "Not at all important": "1.4",
+                    "Don´t know": "0.4",
+                    "No answer": "0.4",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "politics": {
+                    "Very important": "7.4",
+                    "Rather important": "14.7",
+                    "Not very important": "40.8",
+                    "Not at all important": "35.9",
+                    "Don´t know": "0.7",
+                    "No answer": "0.5",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "religion": {
+                    "Very important": "23.8",
+                    "Rather important": "35.1",
+                    "Not very important": "27.3",
+                    "Not at all important": "13",
+                    "Don´t know": "0.1",
+                    "No answer": "0.7",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "happiness": {
+                    "Very happy": "24.4",
+                    "Quite happy": "60.1",
+                    "Not very happy": "14.4",
+                    "Not at all happy": "0.8",
+                    "Don´t know": "0.1",
+                    "No answer": "0.2",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "12.4",
+                    "Need to be very careful": "84.7",
+                    "Don´t know": "1",
+                    "No answer": "1.9",
+                    "number": "1",
+                    "year": "2010"
+                },
+                "year": "2010"
+            },
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "38.1",
+                    "Rather important": "41.5",
+                    "Not very important": "13.3",
+                    "Not at all important": "2.7",
+                    "Don´t know": "2.9",
+                    "No answer": "1.5",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "family": {
+                    "Very important": "85.7",
+                    "Rather important": "12.8",
+                    "Not very important": "0.5",
+                    "Not at all important": "0.1",
+                    "Don´t know": "0.3",
+                    "No answer": "0.7",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "friends": {
+                    "Very important": "46.6",
+                    "Rather important": "44.4",
+                    "Not very important": "6.7",
+                    "Not at all important": "0.4",
+                    "Don´t know": "1.1",
+                    "No answer": "0.8",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "leisure": {
+                    "Very important": "21.2",
+                    "Rather important": "48.6",
+                    "Not very important": "24.4",
+                    "Not at all important": "1.7",
+                    "Don´t know": "2.7",
+                    "No answer": "1.3",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "politics": {
+                    "Very important": "10.4",
+                    "Rather important": "28.3",
+                    "Not very important": "46.5",
+                    "Not at all important": "7.2",
+                    "Don´t know": "6.8",
+                    "No answer": "0.9",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "religion": {
+                    "Very important": "2.6",
+                    "Rather important": "8",
+                    "Not very important": "29.6",
+                    "Not at all important": "49.8",
+                    "Don´t know": "9.2",
+                    "No answer": "0.8",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "happiness": {
+                    "Very happy": "15.7",
+                    "Quite happy": "68.8",
+                    "Not very happy": "13.3",
+                    "Not at all happy": "1.1",
+                    "Don´t know": "0.7",
+                    "No answer": "0.5",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "60.3",
+                    "Need to be very careful": "35.2",
+                    "Don´t know": "2.6",
+                    "No answer": "1.8",
+                    "number": "2.3",
+                    "year": "2010"
+                },
+                "year": "2010"
+            },
+            {
+                "country": "India",
+                "work": {
+                    "Very important": "77.3",
+                    "Rather important": "16.8",
+                    "Not very important": "2.5",
+                    "Not at all important": "1.7",
+                    "Don´t know": "1.7",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "family": {
+                    "Very important": "94.9",
+                    "Rather important": "4.3",
+                    "Not very important": "0.3",
+                    "Not at all important": "0",
+                    "Don´t know": "0.4",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "friends": {
+                    "Very important": "44.9",
+                    "Rather important": "40.4",
+                    "Not very important": "9.5",
+                    "Not at all important": "3.5",
+                    "Don´t know": "1.6",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "leisure": {
+                    "Very important": "34.9",
+                    "Rather important": "35.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "9",
+                    "Don´t know": "1.8",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "politics": {
+                    "Very important": "17",
+                    "Rather important": "26.2",
+                    "Not very important": "26.8",
+                    "Not at all important": "25.9",
+                    "Don´t know": "4.1",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "religion": {
+                    "Very important": "67.1",
+                    "Rather important": "24.2",
+                    "Not very important": "5.5",
+                    "Not at all important": "1.8",
+                    "Don´t know": "1.4",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "happiness": {
+                    "Very happy": "37.4",
+                    "Quite happy": "50",
+                    "Not very happy": "10.8",
+                    "Not at all happy": "1.4",
+                    "Don´t know": "0.3",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "trust in people": {
+                    "Most people can be trusted": "16.7",
+                    "Need to be very careful": "77.9",
+                    "Don´t know": "5.4",
+                    "No answer": "0",
+                    "number": "4.078",
+                    "year": "2010"
+                },
+                "year": "2010"
+            }
+        ]
+    }
+]
