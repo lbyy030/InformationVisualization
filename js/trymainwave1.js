@@ -82,7 +82,7 @@ var donut_width = 400,
   donut_radius = Math.min(donut_width, donut_height) / 2;
 
 //d3.scale.category20()
-var donut_color = d3.scaleOrdinal(d3.schemeCategory20);
+var donut_color = d3.scaleOrdinal(d3.schemePastel1);
 
 //d3.layout.pie()
 var pie = d3
