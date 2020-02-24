@@ -1,0 +1,219 @@
+[
+    {
+        "countries": [
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "39.7",
+                    "Rather important": "35.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "4.9",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1800"
+                },
+                "leisure": {
+                    "Very important": "35.2",
+                    "Rather important": "20.7",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1800"
+                },
+                "friends": {
+                    "Very important": "15",
+                    "Rather important": "20",
+                    "Not very important": "2",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1800"
+                },
+                "year": "1800"
+            },
+            {
+                "country": "Japan",
+                "work": {
+                    "Very important": "39.7",
+                    "Rather important": "35.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "4.9",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1800"
+                },
+                "leisure": {
+                    "Very important": "75.2",
+                    "Rather important": "20.7",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1800"
+                },
+                "friends": {
+                    "Very important": "75",
+                    "Rather important": "20",
+                    "Not very important": "2",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1800"
+                },
+                "year": "1800"
+            }
+        ],
+        "year": "1800"
+    },
+    {
+        "countries": [
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "39.7",
+                    "Rather important": "35.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "4.9",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1900"
+                },
+                "leisure": {
+                    "Very important": "75.2",
+                    "Rather important": "20.7",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1900"
+                },
+                "friends": {
+                    "Very important": "75",
+                    "Rather important": "20",
+                    "Not very important": "2",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1900"
+                }
+            },
+            {
+                "country": "Japan",
+                "work": {
+                    "Very important": "39.7",
+                    "Rather important": "35.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "4.9",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1900"
+                },
+                "leisure": {
+                    "Very important": "75.2",
+                    "Rather important": "20.7",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1900"
+                },
+                "friends": {
+                    "Very important": "75",
+                    "Rather important": "20",
+                    "Not very important": "2",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "1900"
+                },
+                "year": "1900"
+            }
+        ],
+        "year": "1900"
+    },
+    {
+        "countries": [
+            {
+                "country": "China",
+                "work": {
+                    "Very important": "30.7",
+                    "Rather important": "44.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "4.9",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "2000"
+                },
+                "leisure": {
+                    "Very important": "35.2",
+                    "Rather important": "60.7",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "2000"
+                },
+                "friends": {
+                    "Very important": "75",
+                    "Rather important": "20",
+                    "Not very important": "2",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "2000"
+                }
+            },
+            {
+                "country": "Japan",
+                "work": {
+                    "Very important": "29.7",
+                    "Rather important": "45.2",
+                    "Not very important": "19.1",
+                    "Not at all important": "4.9",
+                    "Don´t know": "1.1",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "2000"
+                },
+                "leisure": {
+                    "Very important": "55.2",
+                    "Rather important": "10.7",
+                    "Not very important": "2.9",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "2000"
+                },
+                "friends": {
+                    "Very important": "35",
+                    "Rather important": "60",
+                    "Not very important": "2",
+                    "Not at all important": "0.6",
+                    "Don´t know": "0.6",
+                    "No answer": "0",
+                    "number": "1.002",
+                    "year": "2000"
+                },
+                "year": "2000"
+            }
+        ],
+        "year": "2000"
+    }
+]
