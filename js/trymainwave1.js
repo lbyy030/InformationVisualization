@@ -31,7 +31,7 @@ var t = function () {
 var parseTime = d3.timeParse("%Y");
 var formatTime = d3.timeFormat("/Y");
 var bisectDate = d3.bisector(function (d) {
-  return d.date;
+  return d.year;
 }).left;
 
 // Add the line for the first time
@@ -356,8 +356,8 @@ function update(data) {
       });
       change(donutData);
 
-      console.log("donutData");
-      console.log(donutData);
+      //console.log("donutData");
+      //console.log(donutData);
     });
 
   function mousemove() {
@@ -366,6 +366,16 @@ function update(data) {
       d0 = detailInfo[i - 1],
       d1 = detailInfo[i],
       d = d1 && d0 ? (x0 - d0.year > d1.year - x0 ? d1 : d0) : 0;
+    console.log("check detailInfo");
+    console.log(detailInfo);
+    console.log("check x0");
+    console.log(x0);
+    console.log("check i");
+    console.log(i);
+    console.log("check d0");
+    console.log(d0);
+    console.log("check d1");
+    console.log(d1);
 
     focus.attr(
       "transform",
