@@ -70,3 +70,14 @@
 #description {
   font-size: 1em;
 }
+
+#hint {
+  position: absolute;
+  top: 110px;
+  left: 150px;
+  width: 140px;
+  /* margin:auto; */
+  text-align: center;
+  color: #666;
+  z-index: -1;
+}

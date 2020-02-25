@@ -137,16 +137,18 @@ d3.json("data/wave1.json", function (error, data) {
   formattedData = data;
 
   update(data);
+  /*
+    // Init donut data
+    var initDonutData = [{ degree: "Very important", count: "100" }];
+  
+    initDonutData.map(function (d) {
+      d.count = +d.count;
+      return d;
+    });
+  
+    change(initDonutData);
+    */
 
-  // Init donut data
-  var initDonutData = [{ degree: "Very important", count: "0" }];
-
-  initDonutData.map(function (d) {
-    d.count = +d.count;
-    return d;
-  });
-
-  change(initDonutData);
 });
 
 var detailInfo = [];
@@ -426,6 +428,7 @@ function update(data) {
 }
 
 function change(donutTryData) {
+
   console.log(donutTryData);
 
   var degree = donutTryData;
@@ -435,6 +438,9 @@ function change(donutTryData) {
     data1 = pie(degree);
   console.log("degree");
   console.log(degree);
+
+  // Hide the hint
+  d3.select("#hint").style("visibility", "hidden");
 
   // JOIN elements with new data.
   path = path.data(data1, key);
